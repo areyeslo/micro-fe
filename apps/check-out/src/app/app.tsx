@@ -7,6 +7,7 @@ export function App() {
     <>
       <NxWelcome title="check-out" />
       <div />
+      <div>Bienvenido</div>
     </>
   );
 }
