@@ -1,3 +1,4 @@
-/apps/catalog @areyeslo
-/apps/checkout @areyeslo
-/tools @areyeslo
+/apps/catalog/* @areyeslo
+/apps/checkout/* @areyeslo
+/tools/* @areyeslo
+
