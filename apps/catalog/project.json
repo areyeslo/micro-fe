@@ -49,6 +49,7 @@
       "defaultConfiguration": "development",
       "options": {
         "buildTarget": "catalog:build",
+        "port": 4200,
         "hmr": true
       },
       "configurations": {
